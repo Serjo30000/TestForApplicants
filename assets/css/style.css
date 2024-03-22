@@ -1,0 +1,316 @@
+@font-face {
+    font-family: Fira-Sans;
+    src: url('../fonts/FiraSans-Regular.ttf');
+}
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    background-color: #333;
+}
+.header{
+    height: 100px;
+    width: 100%;
+    background-color: #046cc1;
+}
+.register{
+    height: 250px;
+    width: 100%;
+    background-color: #ffffff;
+    box-sizing: border-box;
+    padding-top: 50px;
+}
+.container{
+    height: 550px;
+    width: 100%;
+    background-color: #ffffff;
+    box-sizing: border-box;
+    padding-top: 50px;
+}
+.result{
+    min-height: calc(100vh - 250px);
+    width: 100%;
+    background-color: #ffffff;
+    box-sizing: border-box;
+    padding-top: 50px;
+}
+.basement{
+    height: 250px;
+    width: 100%;
+    background-color: #333;
+    box-sizing: border-box;
+    padding-top: 50px;
+}
+.header_content{
+    height: 100px;
+    width: 70%;
+    margin-left: 15%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header_content_logo{
+    width: 20%;
+    height: 100px;
+}
+.header_content_name{
+    width: 60%;
+    height: 100px;
+}
+.header_content_account{
+    width: 20%;
+    height: 100px;
+}
+.logo_sstu{
+    height: 50px;
+    margin-top: 25px;
+}
+.header_text{
+    height: 100px;
+    font-family: 'Fira-Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffffe6;
+}
+.a_login_text{
+    text-decoration: none;
+}
+.login_text{
+    height: 100px;
+    font-family: 'Fira-Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffffe6;
+}
+.login_text:hover{
+    color: #aaa;
+}
+.container_content{
+    height: 500px;
+    width: 70%;
+    margin-left: 15%;
+    background-color: #eceff4;
+}
+.container_content_info{
+    height: 500px;
+    width: 70%;
+    margin-left: 15%;
+}
+.container_content_info_question{
+    height: 200px;
+    font-family: 'Fira-Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #337ab7;
+}
+.container_content_info_options{
+    height: 200px;
+}
+.container_content_info_options_list{
+    height: 50px;
+    width: 100%;
+}
+.radioOption{
+    margin-top: 10px;
+    height: 20px;
+    margin-left: 10%;
+    transform: scale(1);
+}
+.radioInput{
+    height: 20px;
+    margin-left: 5%;
+    font-family: 'Fira-Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #337ab7;
+}
+
+.radioInput:hover{
+    color: #193c5a;
+}
+.container_content_info_button{
+    height: 100px;
+}
+
+.buttonSend{
+    height: 60px;
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 20px;
+    background-color: #337ab7;
+    color: #ffffffe6;
+    border-color: #333;
+    font-family: 'Fira-Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+}
+
+.buttonSend:hover{
+    background-color:#046cc1;
+}
+.result_content{
+    height: 960px;
+    width: 70%;
+    margin-left: 15%;
+    background-color: #eceff4;
+}
+
+.result_content_info{
+    height: 150px;
+    width: 70%;
+    margin-left: 15%;
+    font-family: 'Fira-Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    color: #337ab7;
+}
+.result_content_infoG{
+    height: 150px;
+    width: 70%;
+    margin-left: 15%;
+    font-family: 'Fira-Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #337ab7;
+}
+
+.register_content{
+    height: 200px;
+    width: 70%;
+    margin-left: 15%;
+    background-color: #eceff4;
+}
+
+.register_content_name{
+    height: 100px;
+    width: 70%;
+    margin-left: 15%;
+    font-family: 'Fira-Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #337ab7;
+}
+.register_content_reg{
+    height: 100px;
+    width: 70%;
+    margin-left: 15%;
+}
+.inputRegText{
+    margin-left: 20%;
+    font-family: 'Fira-Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+}
+.inputRegBut{
+    height: 40px;
+    width: 20%;
+    margin-left: 15%;
+    margin-top: 20px;
+    background-color: #337ab7;
+    color: #ffffffe6;
+    border-color: #333;
+    font-family: 'Fira-Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+}
+.inputRegBut:hover{
+    background-color:#046cc1;
+}
+.basement_content{
+    height: 150px;
+    width: 70%;
+    margin-left: 15%;
+    display: flex;
+    justify-content: center;
+}
+.basement_content_left{
+    height: 150px;
+    width: 50%;
+}
+.basement_content_right{
+    height: 150px;
+    width: 50%;
+}
+.basement_content_left_name{
+    height: 50px;
+    font-family: 'Fira-Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFF;
+}
+.basement_content_left_text{
+    height: 100px;
+    font-family: 'Fira-Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #aaa;
+}
+.basement_content_right_name{
+    height: 50px;
+    font-family: 'Fira-Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFF;
+}
+.basement_content_right_links{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+}
+.basement_content_right_links_logo{
+    height: 50px;
+}

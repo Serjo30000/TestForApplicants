@@ -1,0 +1,1749 @@
+@media only screen and (max-width:10240px) {
+    .header{
+        height: 400px;
+        width: 100%;
+    }
+    .register{
+        height: 1000px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 200px;
+    }
+    .container{
+        height: 2200px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 200px;
+    }
+    .result{
+        height: 4400px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 200px;
+    }
+    .basement{
+        height: 1000px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 200px;
+    }
+    .header_content{
+        height: 400px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .header_content_logo{
+        width: 20%;
+        height: 400px;
+    }
+    .header_content_name{
+        width: 60%;
+        height: 400px;
+    }
+    .header_content_account{
+        width: 20%;
+        height: 400px;
+    }
+    .logo_sstu{
+        height: 200px;
+        margin-top: 100px;
+    }
+    .header_text{
+        height: 400px;
+        font-size: 160px;
+        line-height: 128px;
+    }
+    
+    .login_text{
+        height: 400px;
+        font-size: 96px;
+        line-height: 112px;
+    }
+    .container_content{
+        height: 2000px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .container_content_info{
+        height: 2000px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .container_content_info_question{
+        height: 800px;
+        font-size: 128px;
+        line-height: 112px;
+    }
+    .container_content_info_options{
+        height: 800px;
+    }
+    .container_content_info_options_list{
+        height: 200px;
+        width: 100%;
+    }
+    .radioOption{
+        margin-top: 40px;
+        height: 80px;
+        margin-left: 10%;
+        transform: scale(5);
+    }
+    .radioInput{
+        height: 80px;
+        font-size: 96px;
+        line-height: 112px;
+    }
+    .container_content_info_button{
+        height: 400px;
+    }
+    
+    .buttonSend{
+        height: 240px;
+        width: 30%;
+        margin-left: 35%;
+        margin-top: 80px;
+        font-size: 96px;
+        line-height: 112px;
+    }
+
+    .result_content{
+        height: 4000px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    
+    .result_content_info{
+        height: 600px;
+        width: 70%;
+        margin-left: 15%;
+        font-size: 80px;
+        line-height: 112px;
+    }
+    .result_content_infoG{
+        height: 600px;
+        width: 70%;
+        margin-left: 15%;
+        font-size: 128px;
+        line-height: 112px;
+    }
+    
+    .register_content{
+        height: 800px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    
+    .register_content_name{
+        height: 400px;
+        width: 70%;
+        margin-left: 15%;
+        font-size: 128px;
+        line-height: 112px;
+    }
+    .register_content_reg{
+        height: 400px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .inputRegText{
+        margin-left: 20%;
+        font-size: 64px;
+        line-height: 112px;
+    }
+    .inputRegBut{
+        height: 160px;
+        width: 25%;
+        margin-left: 15%;
+        margin-top: 40px;
+        font-size: 64px;
+        line-height: 112px;
+    }
+
+    .basement_content{
+        height: 600px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .basement_content_left{
+        height: 600px;
+        width: 50%;
+    }
+    .basement_content_right{
+        height: 600px;
+        width: 50%;
+    }
+    .basement_content_left_name{
+        height: 200px;
+        font-size: 128px;
+        line-height: 112px;
+    }
+    .basement_content_left_text{
+        height: 400px;
+        font-size: 96px;
+        line-height: 112px;
+    }
+    .basement_content_right_name{
+        height: 200px;
+        font-size: 128px;
+        line-height: 112px;
+    }
+    .basement_content_right_links{
+        height: 400px;
+    }
+    .basement_content_right_links_logo{
+        height: 200px;
+    }
+}
+@media only screen and (max-width:5120px) {
+    .header{
+        height: 200px;
+        width: 100%;
+    }
+    .register{
+        height: 500px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 100px;
+    }
+    .container{
+        height: 1100px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 100px;
+    }
+    .result{
+        height: 2200px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 100px;
+    }
+    .basement{
+        height: 500px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 100px;
+    }
+    .header_content{
+        height: 200px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .header_content_logo{
+        width: 20%;
+        height: 200px;
+    }
+    .header_content_name{
+        width: 60%;
+        height: 200px;
+    }
+    .header_content_account{
+        width: 20%;
+        height: 200px;
+    }
+    .logo_sstu{
+        height: 100px;
+        margin-top: 50px;
+    }
+    .header_text{
+        height: 200px;
+        font-size: 80px;
+        line-height: 56px;
+    }
+    
+    .login_text{
+        height: 200px;
+        font-size: 48px;
+        line-height: 56px;
+    }
+    .container_content{
+        height: 1000px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .container_content_info{
+        height: 1000px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .container_content_info_question{
+        height: 400px;
+        font-size: 64px;
+        line-height: 56px;
+    }
+    .container_content_info_options{
+        height: 400px;
+    }
+    .container_content_info_options_list{
+        height: 100px;
+        width: 100%;
+    }
+    .radioOption{
+        margin-top: 20px;
+        height: 40px;
+        margin-left: 10%;
+        transform: scale(2);
+    }
+    .radioInput{
+        height: 40px;
+        font-size: 48px;
+        line-height: 56px;
+    }
+    .container_content_info_button{
+        height: 200px;
+    }
+    
+    .buttonSend{
+        height: 120px;
+        width: 30%;
+        margin-left: 35%;
+        margin-top: 40px;
+        font-size: 48px;
+        line-height: 56px;
+    }
+
+    .result_content{
+        height: 2000px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    
+    .result_content_info{
+        height: 300px;
+        width: 70%;
+        margin-left: 15%;
+        font-size: 40px;
+        line-height: 56px;
+    }
+    .result_content_infoG{
+        height: 300px;
+        width: 70%;
+        margin-left: 15%;
+        font-size: 64px;
+        line-height: 56px;
+    }
+    
+    .register_content{
+        height: 400px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    
+    .register_content_name{
+        height: 200px;
+        width: 70%;
+        margin-left: 15%;
+        font-size: 64px;
+        line-height: 56px;
+    }
+    .register_content_reg{
+        height: 200px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .inputRegText{
+        margin-left: 20%;
+        font-size: 32px;
+        line-height: 56px;
+    }
+    .inputRegBut{
+        height: 80px;
+        width: 25%;
+        margin-left: 15%;
+        margin-top: 20px;
+        font-size: 32px;
+        line-height: 56px;
+    }
+
+    .basement_content{
+        height: 300px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .basement_content_left{
+        height: 300px;
+        width: 50%;
+    }
+    .basement_content_right{
+        height: 300px;
+        width: 50%;
+    }
+    .basement_content_left_name{
+        height: 100px;
+        font-size: 64px;
+        line-height: 56px;
+    }
+    .basement_content_left_text{
+        height: 200px;
+        font-size: 48px;
+        line-height: 56px;
+    }
+    .basement_content_right_name{
+        height: 100px;
+        font-size: 64px;
+        line-height: 56px;
+    }
+    .basement_content_right_links{
+        height: 200px;
+    }
+    .basement_content_right_links_logo{
+        height: 100px;
+    }
+}
+@media only screen and (max-width:2560px) {
+    .header{
+        height: 100px;
+        width: 100%;
+    }
+    .register{
+        height: 250px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 50px;
+    }
+    .container{
+        height: 550px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 50px;
+    }
+    .result{
+        height: 1060px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 50px;
+    }
+    .basement{
+        height: 250px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 50px;
+    }
+    .header_content{
+        height: 100px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .header_content_logo{
+        width: 20%;
+        height: 100px;
+    }
+    .header_content_name{
+        width: 60%;
+        height: 100px;
+    }
+    .header_content_account{
+        width: 20%;
+        height: 100px;
+    }
+    .logo_sstu{
+        height: 50px;
+        margin-top: 25px;
+    }
+    .header_text{
+        height: 100px;
+        font-size: 40px;
+        line-height: 28px;
+    }
+    
+    .login_text{
+        height: 100px;
+        font-size: 24px;
+        line-height: 28px;
+    }
+    .container_content{
+        height: 500px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .container_content_info{
+        height: 500px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .container_content_info_question{
+        height: 200px;
+        font-size: 32px;
+        line-height: 28px;
+    }
+    .container_content_info_options{
+        height: 200px;
+    }
+    .container_content_info_options_list{
+        height: 50px;
+        width: 100%;
+    }
+    .radioOption{
+        margin-top: 10px;
+        height: 20px;
+        margin-left: 10%;
+        transform: scale(1);
+    }
+    .radioInput{
+        height: 20px;
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .container_content_info_button{
+        height: 100px;
+    }
+    
+    .buttonSend{
+        height: 60px;
+        width: 30%;
+        margin-left: 35%;
+        margin-top: 20px;
+        font-size: 24px;
+        line-height: 28px;
+    }
+
+    .result_content{
+        height: 960px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    
+    .result_content_info{
+        height: 150px;
+        width: 70%;
+        margin-left: 15%;
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .result_content_infoG{
+        height: 150px;
+        width: 70%;
+        margin-left: 15%;
+        font-size: 32px;
+        line-height: 28px;
+    }
+    
+    .register_content{
+        height: 200px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    
+    .register_content_name{
+        height: 100px;
+        width: 70%;
+        margin-left: 15%;
+        font-size: 32px;
+        line-height: 28px;
+    }
+    .register_content_reg{
+        height: 100px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .inputRegText{
+        margin-left: 20%;
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .inputRegBut{
+        height: 40px;
+        width: 20%;
+        margin-left: 15%;
+        margin-top: 20px;
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .basement_content{
+        height: 150px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .basement_content_left{
+        height: 150px;
+        width: 50%;
+    }
+    .basement_content_right{
+        height: 150px;
+        width: 50%;
+    }
+    .basement_content_left_name{
+        height: 50px;
+        font-size: 32px;
+        line-height: 28px;
+    }
+    .basement_content_left_text{
+        height: 100px;
+        font-size: 24px;
+        line-height: 28px;
+    }
+    .basement_content_right_name{
+        height: 50px;
+        font-size: 32px;
+        line-height: 28px;
+    }
+    .basement_content_right_links{
+        height: 100px;
+    }
+    .basement_content_right_links_logo{
+        height: 50px;
+    }
+}
+@media only screen and (max-width:1440px) {
+    .header{
+        height: 70px;
+        width: 100%;
+    }
+    .register{
+        height: 170px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 35px;
+    }
+    .container{
+        height: 370px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 35px;
+    }
+    .result{
+        height: 780px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 35px;
+    }
+    .basement{
+        height: 170px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 35px;
+    }
+    .header_content{
+        height: 70px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .header_content_logo{
+        width: 20%;
+        height: 70px;
+    }
+    .header_content_name{
+        width: 60%;
+        height: 70px;
+    }
+    .header_content_account{
+        width: 20%;
+        height: 70px;
+    }
+    .logo_sstu{
+        height: 35px;
+        margin-top: 15px;
+    }
+    .header_text{
+        height: 70px;
+        font-size: 28px;
+        line-height: 18px;
+    }
+    
+    .login_text{
+        height: 70px;
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .container_content{
+        height: 370px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .container_content_info{
+        height: 370px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .container_content_info_question{
+        height: 120px;
+        font-size: 24px;
+        line-height: 18px;
+    }
+    .container_content_info_options{
+        height: 120px;
+    }
+    .container_content_info_options_list{
+        height: 30px;
+        width: 100%;
+    }
+    .radioOption{
+        margin-top: 7px;
+        height: 12px;
+        margin-left: 10%;
+    }
+    .radioInput{
+        height: 12px;
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .container_content_info_button{
+        height: 70px;
+    }
+    
+    .buttonSend{
+        height: 30px;
+        width: 30%;
+        margin-left: 35%;
+        margin-top: 30px;
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .result_content{
+        height: 680px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    
+    .result_content_info{
+        height: 100px;
+        width: 70%;
+        margin-left: 15%;
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .result_content_infoG{
+        height: 100px;
+        width: 70%;
+        margin-left: 15%;
+        font-size: 24px;
+        line-height: 18px;
+    }
+    
+    .register_content{
+        height: 130px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    
+    .register_content_name{
+        height: 70px;
+        width: 70%;
+        margin-left: 15%;
+        font-size: 24px;
+        line-height: 18px;
+    }
+    .register_content_reg{
+        height: 70px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .inputRegText{
+        margin-left: 20%;
+        font-size: 10px;
+        line-height: 18px;
+    }
+    .inputRegBut{
+        height: 30px;
+        width: 20%;
+        margin-left: 15%;
+        margin-top: 12px;
+        font-size: 10px;
+        line-height: 18px;
+    }
+
+    .basement_content{
+        height: 100px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .basement_content_left{
+        height: 100px;
+        width: 50%;
+    }
+    .basement_content_right{
+        height: 100px;
+        width: 50%;
+    }
+    .basement_content_left_name{
+        height: 35px;
+        font-size: 24px;
+        line-height: 18px;
+    }
+    .basement_content_left_text{
+        height: 70px;
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .basement_content_right_name{
+        height: 35px;
+        font-size: 24px;
+        line-height: 18px;
+    }
+    .basement_content_right_links{
+        height: 70px;
+    }
+    .basement_content_right_links_logo{
+        height: 35px;
+    }
+}
+@media only screen and (max-width:1024px) {
+    .header{
+        height: 70px;
+        width: 100%;
+    }
+    .register{
+        height: 170px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 35px;
+    }
+    .container{
+        height: 370px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 35px;
+    }
+    .result{
+        height: 780px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 35px;
+    }
+    .basement{
+        height: 170px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 35px;
+    }
+    .header_content{
+        height: 70px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .header_content_logo{
+        width: 20%;
+        height: 70px;
+    }
+    .header_content_name{
+        width: 60%;
+        height: 70px;
+    }
+    .header_content_account{
+        width: 20%;
+        height: 70px;
+    }
+    .logo_sstu{
+        height: 35px;
+        margin-top: 15px;
+    }
+    .header_text{
+        height: 70px;
+        font-size: 28px;
+        line-height: 22px;
+    }
+    
+    .login_text{
+        height: 70px;
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .container_content{
+        height: 370px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .container_content_info{
+        height: 370px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .container_content_info_question{
+        height: 120px;
+        font-size: 24px;
+        line-height: 22px;
+    }
+    .container_content_info_options{
+        height: 120px;
+    }
+    .container_content_info_options_list{
+        height: 30px;
+        width: 100%;
+    }
+    .radioOption{
+        margin-top: 7px;
+        height: 12px;
+        margin-left: 10%;
+    }
+    .radioInput{
+        height: 12px;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .container_content_info_button{
+        height: 70px;
+    }
+    
+    .buttonSend{
+        height: 30px;
+        width: 30%;
+        margin-left: 35%;
+        margin-top: 30px;
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .result_content{
+        height: 680px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    
+    .result_content_info{
+        height: 100px;
+        width: 70%;
+        margin-left: 15%;
+        font-size: 12px;
+        line-height: 22px;
+    }
+    .result_content_infoG{
+        height: 100px;
+        width: 70%;
+        margin-left: 15%;
+        font-size: 24px;
+        line-height: 22px;
+    }
+    
+    .register_content{
+        height: 130px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    
+    .register_content_name{
+        height: 70px;
+        width: 70%;
+        margin-left: 15%;
+        font-size: 24px;
+        line-height: 22px;
+    }
+    .register_content_reg{
+        height: 70px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .inputRegText{
+        margin-left: 20%;
+        font-size: 10px;
+        line-height: 22px;
+    }
+    .inputRegBut{
+        height: 30px;
+        width: 20%;
+        margin-left: 15%;
+        margin-top: 12px;
+        font-size: 10px;
+        line-height: 22px;
+    }
+
+    .basement_content{
+        height: 100px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .basement_content_left{
+        height: 100px;
+        width: 50%;
+    }
+    .basement_content_right{
+        height: 100px;
+        width: 50%;
+    }
+    .basement_content_left_name{
+        height: 35px;
+        font-size: 24px;
+        line-height: 22px;
+    }
+    .basement_content_left_text{
+        height: 70px;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .basement_content_right_name{
+        height: 35px;
+        font-size: 24px;
+        line-height: 22px;
+    }
+    .basement_content_right_links{
+        height: 70px;
+    }
+    .basement_content_right_links_logo{
+        height: 35px;
+    }
+}
+@media only screen and (max-width:768px) {
+    .header{
+        height: 35px;
+        width: 100%;
+    }
+    .register{
+        height: 85px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 17.5px;
+    }
+    .container{
+        height: 185px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 17.5px;
+    }
+    .result{
+        height: 380px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 17.5px;
+    }
+    .basement{
+        height: 85px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 17.5px;
+    }
+    .header_content{
+        height: 35px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .header_content_logo{
+        width: 20%;
+        height: 35px;
+    }
+    .header_content_name{
+        width: 60%;
+        height: 35px;
+    }
+    .header_content_account{
+        width: 20%;
+        height: 35px;
+    }
+    .logo_sstu{
+        height: 17.5px;
+        margin-top: 7.5px;
+    }
+    .header_text{
+        height: 35px;
+        font-size: 14px;
+        line-height: 12px;
+    }
+    
+    .login_text{
+        height: 35px;
+        font-size: 7px;
+        line-height: 12px;
+    }
+    .container_content{
+        height: 185px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .container_content_info{
+        height: 185px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .container_content_info_question{
+        height: 60px;
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .container_content_info_options{
+        height: 60px;
+    }
+    .container_content_info_options_list{
+        height: 15px;
+        width: 100%;
+    }
+    .radioOption{
+        margin-top: 3.5px;
+        height: 6px;
+        margin-left: 10%;
+    }
+    .radioInput{
+        height: 6px;
+        font-size: 8px;
+        line-height: 12px;
+    }
+    .container_content_info_button{
+        height: 35px;
+    }
+    
+    .buttonSend{
+        height: 20px;
+        width: 30%;
+        margin-left: 35%;
+        margin-top: 25px;
+        font-size: 8px;
+        line-height: 12px;
+    }
+
+    .result_content{
+        height: 330px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    
+    .result_content_info{
+        height: 50px;
+        width: 70%;
+        margin-left: 15%;
+        font-size: 6px;
+        line-height: 12px;
+    }
+    .result_content_infoG{
+        height: 50px;
+        width: 70%;
+        margin-left: 15%;
+        font-size: 12px;
+        line-height: 12px;
+    }
+    
+    .register_content{
+        height: 65px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    
+    .register_content_name{
+        height: 35px;
+        width: 70%;
+        margin-left: 15%;
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .register_content_reg{
+        height: 35px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .inputRegText{
+        margin-left: 15%;
+        font-size: 5px;
+        line-height: 12px;
+    }
+    .inputRegBut{
+        height: 20px;
+        width: 30%;
+        margin-left: 15%;
+        margin-top: 6px;
+        font-size: 5px;
+        line-height: 12px;
+    }
+
+    .basement_content{
+        height: 50px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .basement_content_left{
+        height: 50px;
+        width: 50%;
+    }
+    .basement_content_right{
+        height: 50px;
+        width: 50%;
+    }
+    .basement_content_left_name{
+        height: 17.5px;
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .basement_content_left_text{
+        height: 35px;
+        font-size: 8px;
+        line-height: 12px;
+    }
+    .basement_content_right_name{
+        height: 17.5px;
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .basement_content_right_links{
+        height: 35px;
+    }
+    .basement_content_right_links_logo{
+        height: 17.5px;
+    }
+}
+@media only screen and (max-width:425px) {
+    .header{
+        height: 35px;
+        width: 100%;
+    }
+    .register{
+        height: 85px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 17.5px;
+    }
+    .container{
+        height: 185px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 17.5px;
+    }
+    .result{
+        height: 410px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 17.5px;
+    }
+    .basement{
+        height: 85px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 17.5px;
+    }
+    .header_content{
+        height: 35px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .header_content_logo{
+        width: 20%;
+        height: 35px;
+    }
+    .header_content_name{
+        width: 60%;
+        height: 35px;
+    }
+    .header_content_account{
+        width: 20%;
+        height: 35px;
+    }
+    .logo_sstu{
+        height: 17.5px;
+        margin-top: 7.5px;
+    }
+    .header_text{
+        height: 35px;
+        font-size: 14px;
+        line-height: 12px;
+    }
+    
+    .login_text{
+        height: 35px;
+        font-size: 7px;
+        line-height: 12px;
+    }
+    .container_content{
+        height: 185px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .container_content_info{
+        height: 185px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .container_content_info_question{
+        height: 60px;
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .container_content_info_options{
+        height: 60px;
+    }
+    .container_content_info_options_list{
+        height: 15px;
+        width: 100%;
+    }
+    .radioOption{
+        margin-top: 3.5px;
+        height: 6px;
+        margin-left: 10%;
+    }
+    .radioInput{
+        height: 6px;
+        font-size: 6px;
+        line-height: 12px;
+    }
+    .container_content_info_button{
+        height: 35px;
+    }
+    
+    .buttonSend{
+        height: 20px;
+        width: 30%;
+        margin-left: 35%;
+        margin-top: 25px;
+        font-size: 8px;
+        line-height: 12px;
+    }
+
+    .result_content{
+        height: 360px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    
+    .result_content_info{
+        height: 50px;
+        width: 70%;
+        margin-left: 15%;
+        font-size: 6px;
+        line-height: 12px;
+    }
+    .result_content_infoG{
+        height: 50px;
+        width: 70%;
+        margin-left: 15%;
+        font-size: 12px;
+        line-height: 12px;
+    }
+    
+    .register_content{
+        height: 65px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    
+    .register_content_name{
+        height: 35px;
+        width: 70%;
+        margin-left: 15%;
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .register_content_reg{
+        height: 35px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .inputRegText{
+        margin-left: 15%;
+        font-size: 5px;
+        line-height: 12px;
+    }
+    .inputRegBut{
+        height: 20px;
+        width: 30%;
+        margin-left: 15%;
+        margin-top: 6px;
+        font-size: 5px;
+        line-height: 12px;
+    }
+
+    .basement_content{
+        height: 50px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .basement_content_left{
+        height: 50px;
+        width: 50%;
+    }
+    .basement_content_right{
+        height: 50px;
+        width: 50%;
+    }
+    .basement_content_left_name{
+        height: 17.5px;
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .basement_content_left_text{
+        height: 35px;
+        font-size: 8px;
+        line-height: 12px;
+    }
+    .basement_content_right_name{
+        height: 17.5px;
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .basement_content_right_links{
+        height: 35px;
+    }
+    .basement_content_right_links_logo{
+        height: 17.5px;
+    }
+}
+@media only screen and (max-width:375px) {
+    .header{
+        height: 17.5px;
+        width: 100%;
+    }
+    .register{
+        height: 58.5px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 8.75px;
+    }
+    .container{
+        height: 130px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 8.75px;
+    }
+    .result{
+        height: 200px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 8.75px;
+    }
+    .basement{
+        height: 42.5px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 8.75px;
+    }
+    .header_content{
+        height: 17.5px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .header_content_logo{
+        width: 20%;
+        height: 17.5px;
+    }
+    .header_content_name{
+        width: 60%;
+        height: 17.5px;
+    }
+    .header_content_account{
+        width: 20%;
+        height: 17.5px;
+    }
+    .logo_sstu{
+        height: 8.75px;
+        margin-top: 3.75px;
+    }
+    .header_text{
+        height: 17.5px;
+        font-size: 7px;
+        line-height: 9px;
+    }
+    
+    .login_text{
+        height: 17.5px;
+        font-size: 3.5px;
+        line-height: 9px;
+    }
+    .container_content{
+        height: 130px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .container_content_info{
+        height: 100px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .container_content_info_question{
+        height: 30px;
+        font-size: 6px;
+        line-height: 9px;
+    }
+    .container_content_info_options{
+        height: 30px;
+    }
+    .container_content_info_options_list{
+        height: 7.5px;
+        width: 100%;
+    }
+    .radioOption{
+        margin-top: 1.75px;
+        height: 3px;
+        margin-left: 10%;
+    }
+    .radioInput{
+        height: 3px;
+        font-size: 4px;
+        line-height: 9px;
+    }
+    .container_content_info_button{
+        height: 17.5px;
+    }
+    
+    .buttonSend{
+        height: 15px;
+        width: 30%;
+        margin-left: 35%;
+        margin-top: 35px;
+        font-size: 4px;
+        line-height: 9px;
+    }
+
+    .result_content{
+        height: 180px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    
+    .result_content_info{
+        height: 25px;
+        width: 70%;
+        margin-left: 15%;
+        font-size: 4px;
+        line-height: 9px;
+    }
+    .result_content_infoG{
+        height: 25px;
+        width: 70%;
+        margin-left: 15%;
+        font-size: 6px;
+        line-height: 9px;
+    }
+    
+    .register_content{
+        height: 50px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    
+    .register_content_name{
+        height: 17.5px;
+        width: 70%;
+        margin-left: 15%;
+        font-size: 6px;
+        line-height: 9px;
+    }
+    .register_content_reg{
+        height: 17.5px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .inputRegText{
+        margin-left: 15%;
+        font-size: 2.5px;
+        line-height: 9px;
+    }
+    .inputRegBut{
+        height: 15px;
+        width: 30%;
+        margin-left: 15%;
+        margin-top: 3px;
+        font-size: 2.5px;
+        line-height: 9px;
+    }
+
+    .basement_content{
+        height: 25px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .basement_content_left{
+        height: 25px;
+        width: 50%;
+    }
+    .basement_content_right{
+        height: 25px;
+        width: 50%;
+    }
+    .basement_content_left_name{
+        height: 8.75px;
+        font-size: 6px;
+        line-height: 9px;
+    }
+    .basement_content_left_text{
+        height: 17.5px;
+        font-size: 4px;
+        line-height: 9px;
+    }
+    .basement_content_right_name{
+        height: 8.75px;
+        font-size: 6px;
+        line-height: 9px;
+    }
+    .basement_content_right_links{
+        height: 17.5px;
+    }
+    .basement_content_right_links_logo{
+        height: 8.75px;
+    }
+}
+@media only screen and (max-width:320px) {
+    .header{
+        height: 17.5px;
+        width: 100%;
+    }
+    .register{
+        height: 58.5px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 8.75px;
+    }
+    .container{
+        height: 130px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 8.75px;
+    }
+    .result{
+        height: 200px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 8.75px;
+    }
+    .basement{
+        height: 42.5px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 8.75px;
+    }
+    .header_content{
+        height: 17.5px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .header_content_logo{
+        width: 20%;
+        height: 17.5px;
+    }
+    .header_content_name{
+        width: 60%;
+        height: 17.5px;
+    }
+    .header_content_account{
+        width: 20%;
+        height: 17.5px;
+    }
+    .logo_sstu{
+        height: 8.75px;
+        margin-top: 3.75px;
+    }
+    .header_text{
+        height: 17.5px;
+        font-size: 7px;
+        line-height: 9px;
+    }
+    
+    .login_text{
+        height: 17.5px;
+        font-size: 3.5px;
+        line-height: 9px;
+    }
+    .container_content{
+        height: 130px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .container_content_info{
+        height: 100px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .container_content_info_question{
+        height: 30px;
+        font-size: 6px;
+        line-height: 9px;
+    }
+    .container_content_info_options{
+        height: 30px;
+    }
+    .container_content_info_options_list{
+        height: 7.5px;
+        width: 100%;
+    }
+    .radioOption{
+        margin-top: 1.75px;
+        height: 3px;
+        margin-left: 10%;
+    }
+    .radioInput{
+        height: 3px;
+        font-size: 4px;
+        line-height: 9px;
+    }
+    .container_content_info_button{
+        height: 17.5px;
+    }
+    
+    .buttonSend{
+        height: 15px;
+        width: 30%;
+        margin-left: 35%;
+        margin-top: 35px;
+        font-size: 4px;
+        line-height: 9px;
+    }
+
+    .result_content{
+        height: 180px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    
+    .result_content_info{
+        height: 25px;
+        width: 70%;
+        margin-left: 15%;
+        font-size: 4px;
+        line-height: 9px;
+    }
+    .result_content_infoG{
+        height: 25px;
+        width: 70%;
+        margin-left: 15%;
+        font-size: 6px;
+        line-height: 9px;
+    }
+    
+    .register_content{
+        height: 50px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    
+    .register_content_name{
+        height: 17.5px;
+        width: 70%;
+        margin-left: 15%;
+        font-size: 6px;
+        line-height: 9px;
+    }
+    .register_content_reg{
+        height: 17.5px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .inputRegText{
+        margin-left: 15%;
+        font-size: 2.5px;
+        line-height: 9px;
+    }
+    .inputRegBut{
+        height: 15px;
+        width: 30%;
+        margin-left: 15%;
+        margin-top: 3px;
+        font-size: 2.5px;
+        line-height: 9px;
+    }
+
+    .basement_content{
+        height: 25px;
+        width: 70%;
+        margin-left: 15%;
+    }
+    .basement_content_left{
+        height: 25px;
+        width: 50%;
+    }
+    .basement_content_right{
+        height: 25px;
+        width: 50%;
+    }
+    .basement_content_left_name{
+        height: 8.75px;
+        font-size: 6px;
+        line-height: 9px;
+    }
+    .basement_content_left_text{
+        height: 17.5px;
+        font-size: 4px;
+        line-height: 9px;
+    }
+    .basement_content_right_name{
+        height: 8.75px;
+        font-size: 6px;
+        line-height: 9px;
+    }
+    .basement_content_right_links{
+        height: 17.5px;
+    }
+    .basement_content_right_links_logo{
+        height: 8.75px;
+    }
+}

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Главная страница</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/media.css">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/logosstu.png">
+    <script src="assets/js/index.js">
+    </script>
+</head>
+<body>
+    <div class="header">
+        <div class="header_content">
+            <div class="header_content_logo">
+                <img alt="logo SSTU" class="logo_sstu"  src="assets/images/logosstu.png">
+            </div>
+            <div class="header_content_name">
+                <div class="header_text">Направления для абитуриентов</div>
+            </div>
+            <div class="header_content_account">
+                <a href="#" class="a_login_text"><div id="account" class="login_text">Пользователь: гость</div></a>
+            </div>
+        </div>
+    </div>
+    <div class="register">
+        <div class="register_content">
+            <div class="register_content_name">
+                Войдите в аккаунт:
+            </div>
+            <div class="register_content_reg">
+                <input class="inputRegText" id="textReg" type="text" name="login" value="" placeholder="Зарегистрируйтесь">
+                <input class="inputRegBut" type="button" value="Подтвердить вход" onClick="addName()">
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="container_content">
+            <div class="container_content_info">
+                <div id="question1" class="container_content_info_question">
+                    Вопрос
+                </div>
+                <form action="#">
+                <div class="container_content_info_options">
+                    <div class="container_content_info_options_list">
+                        <input type="radio" id="option1" class="radioOption" value="1" name="options" />
+                        <label for="option1" id="optionlabel1" class="radioInput">Ответ 1</label>
+                    </div>
+                    <div class="container_content_info_options_list">
+                        <input type="radio" id="option2" class="radioOption" value="2" name="options" />
+                        <label for="option2" id="optionlabel2" class="radioInput">Ответ 2</label>
+                    </div>
+                    <div class="container_content_info_options_list">
+                        <input type="radio" id="option3" class="radioOption" value="3" name="options" />
+                        <label for="option3" id="optionlabel3" class="radioInput">Ответ 3</label>
+                    </div>
+                    <div class="container_content_info_options_list">
+                        <input type="radio" id="option4" class="radioOption" value="4" name="options" />
+                        <label for="option4" id="optionlabel4" class="radioInput">Ответ 4</label>
+                    </div>
+                </div>
+                <div class="container_content_info_button">
+                    <a id="aRest1" href="#send"><input type="button" name="send" id="butSend" value="Выбрать" class="buttonSend" onclick="app()"></input></a>
+                </div>
+                </form>
+            </div>
+        </div>
+        <a name="rest"></a>
+    </div>
+    <div class="result" name="rest">
+        <div class="result_content">
+            <div class="result_content_infoG">
+                Вам рекомендовано поступить на данное направление:
+            </div>
+            <div id="resultat1" class="result_content_info">
+                Направление:
+            </div>
+            <div id="resultat2" class="result_content_info">
+                Профили:
+            </div>
+            <div id="resultat3" class="result_content_info">
+                Формы обучения:
+            </div>
+            <div id="resultat4" class="result_content_info">
+                Приём по результатам ЕГЭ:
+            </div>
+            <div id="resultat5" class="result_content_info">
+                Описание:
+            </div>
+        </div>
+    </div>
+    <div class="basement">
+        <div class="basement_content">
+            <div class="basement_content_left">
+                <div class="basement_content_left_name">
+                    О сайте
+                </div>
+                <div class="basement_content_left_text">
+                    Сайт создан для прохождения абитуриентами теста, чтобы определить себе направление.
+                </div>
+            </div>
+            <div class="basement_content_right">
+                <div class="basement_content_right_name">
+                    Ссылки
+                </div>
+                <div class="basement_content_right_links">
+                    <a href="https://inpit.sstu.ru/home.php"><img alt="logo INPIT" class="basement_content_right_links_logo" src="assets/images/inpit.png"></a>
+                    <a href="https://vk.com/id310386679"><img alt="logo INPIT" class="basement_content_right_links_logo" src="assets/images/vk.png"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
